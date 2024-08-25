@@ -1,10 +1,10 @@
 [
   
   {
-    "title": "블로그 창설",
+    "title": "글 형식 참고",
     "url": "/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B0%BD%EC%84%A4/",
-    "categories": "Blogging, Tutorial",
-    "tags": "writing",
+    "categories": "",
+    "tags": "typography",
     "date": "2024-08-24 02:35:00 +0900",
     
 
@@ -13,8 +13,8 @@
 
 
     
-    "snippet": "꿀꺽 블로그 창설hello!",
-    "content": "꿀꺽 블로그 창설hello!"
+    "snippet": "Github Actions란?hello!HeadingsH1 — headingH2 — headingH3 — headingH4 — headingParagraphQuisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis ...",
+    "content": "Github Actions란?hello!HeadingsH1 — headingH2 — headingH3 — headingH4 — headingParagraphQuisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.  Firstly  Secondly  Thirdly  Chapter          Section                  Paragraph                      Job          Step 1      Step 2      Step 3        Sun  the star around which the earth orbits  Moon  the natural satellite of the earth, visible by reflected light from the sun  This line shows the block quote.  An example showing the tip type prompt.  An example showing the info type prompt.  An example showing the warning type prompt.  An example showing the danger type prompt.Tables            Company      Contact      Country                  Alfreds Futterkiste      Maria Anders      Germany              Island Trading      Helen Bennett      UK              Magazzini Alimentari Riuniti      Giovanni Rovelli      Italy      Linkshttp://127.0.0.1:4000Inline codeThis is an example of Inline Code.FilepathHere is the /path/to/the/file.extend.Code blocksCommonThis is a common code snippet, without syntax highlight and line number.Specific Languageif [ $? -ne 0 ]; then  echo \"The command was not successful.\";  #do the needful / exitfi;Specific filename@import  \"colors/light-typography\",  \"colors/dark-typography\";"
   }
   
 ]

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>꿀꺽개발블로그</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-08-24T08:14:54+09:00</updated>
+  <updated>2024-08-25T11:15:34+09:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>블로그 창설</title>
-    <link href="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B0%BD%EC%84%A4/" rel="alternate" type="text/html" title="블로그 창설" />
+    <title>글 형식 참고</title>
+    <link href="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B0%BD%EC%84%A4/" rel="alternate" type="text/html" title="글 형식 참고" />
     <published>2024-08-24T02:35:00+09:00</published>
   
     <updated>2024-08-24T02:35:00+09:00</updated>
@@ -34,14 +34,27 @@
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
-    
   
 
-  <summary>꿀꺽 블로그 창설
-hello!</summary>
+  <summary>Github Actions란?
+hello!
+
+Headings
+
+
+
+H1 — heading
+
+H2 — heading
+
+H3 — heading
+
+H4 — heading
+
+
+Paragraph
+
+Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus u...</summary>
 
   </entry>
 
